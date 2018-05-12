@@ -1,0 +1,27 @@
+_repo: The-Pilot-s-Daughteran-account-of-Elizabeth-Cullingham_38545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunningham, Francis
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '39861'
+    url: http://www.gutenberg.org/2009/agents/39861
+description: ''
+gutenberg_issued: '2012-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcc 'BV'
+- !lcsh 'Cullingham, Elizabeth, 1812-1840'
+title: 'The Pilot''s Daughter: an account of Elizabeth Cullingham'
+url: http://www.gutenberg.org/ebooks/38545
